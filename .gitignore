@@ -1,6 +1,9 @@
 # Files that don't need to be committed to GitHub
 practice.ipynb 
 practice_index.html
+module_index.html
+Mission_to_Mars_Challenge_copy.ipynb
+scraping_copy.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
